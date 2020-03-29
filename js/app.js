@@ -24,6 +24,7 @@
 //         $( ".item-g" ).css("background-color","pink");
 //         $( ".item-h" ).css("background-color","skyblue");
 //         $( ".item-i" ).css("background-color","blue");
+//
 
 //     }
 // });
