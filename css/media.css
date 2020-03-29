@@ -1,0 +1,165 @@
+@media (max-width:767px) and (min-width:480px) {
+    body
+    {
+        margin: 0;
+    }
+    .item-a
+    {
+        width: 480px;
+    height: 75px;
+    border: 1px solid gray;
+    background-color: rgb(19, 242, 168);
+    padding: 0px 12px;
+    }
+    .item-b
+    {
+        width: 480px;
+    height: 150px;
+    border: 1px solid gray;
+    background-color: rgb(116, 19, 242);
+    padding: 0px 12px;
+    }
+    .item-c
+    {
+        width: 480px;
+    height: 125px;
+    border: 1px solid gray;
+    background-color: rgb(242, 153, 19);
+    padding: 0px 12px;
+    }
+    .item-d
+    {
+        width: 480px;
+    height: 125px;
+    border: 1px solid gray;
+    background-color: rgb(216, 19, 242);
+    padding: 0px 12px;
+    display: block;
+    }
+ 
+    .item-e
+    {
+        width: 240px;
+    height: 250px;
+    border: 1px solid gray;
+    background-color: rgb(242, 19, 19);
+    padding: 0px 12px;
+    display: inline-block;
+    }
+    .item-f
+    {
+        width: 240px;
+    height: 250px;
+    border: 1px solid gray;
+    background-color: rgb(27, 242, 19);
+    padding: 0px 12px;
+    }
+    .item-g
+    {
+        width: 240px;
+    height: 250px;
+    border: 1px solid gray;
+    background-color: rgb(238, 242, 19);
+    padding: 0px 12px;
+    }
+    .item-h
+    {
+        width: 240px;
+    height: 250px;
+    border: 1px solid gray;
+    background-color: rgb(242, 19, 93);
+    padding: 0px 12px;
+    }
+    .item-i
+    {
+        width: 480px;
+    height: 80px;
+    border: 1px solid gray;
+    background-color: rgb(242, 119, 19);
+    padding: 0px 12px;
+    display: block;
+    }
+}
+/*tablets*/
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+    body
+    {
+        margin: 0;
+    }
+    .item-a {
+        width: 100%;
+        height: 75px;
+        border: 1px solid gray;
+        background-color: rgb(53, 19, 242);
+        padding: 0px 12px;
+        display: block;
+    }
+    .item-b {
+        width: 100%;
+        height: 150px;
+        border: 1px solid gray;
+        background-color: rgb(119, 242, 19);
+        padding: 0px 12px;
+        display: block;
+    }
+    .item-c {
+        width: 50%;
+        height: 125px;
+        border: 1px solid gray;
+        background-color: rgb(242, 19, 49);
+        padding: 0px 12px;
+        display: block;
+    }
+    .item-d {
+        width:50%;
+        height: 125px;
+        border: 1px solid gray;
+        background-color: rgb(19, 179, 242);
+        padding: 0px 12px;
+        display: block;
+    }
+ 
+    .item-e
+    {
+        width:25%;
+    height: 250px;
+    border: 1px solid gray;
+    background-color: rgb(242, 238, 19);
+    padding: 0px 12px;
+    display: inline-block;
+    }
+    .item-f
+    {
+        width:25%;
+    height: 250px;
+    border: 1px solid gray;
+    background-color: rgb(179, 19, 242);
+    padding: 0px 12px;
+    }
+    .item-g
+    {
+        width:25%;
+    height: 250px;
+    border: 1px solid gray;
+    background-color: rgb(19, 242, 75);
+    padding: 0px 12px;
+    }
+    .item-h
+    {
+        width: 25%;
+    height: 250px;
+    border: 1px solid gray;
+    background-color: rgb(242, 71, 19);
+    padding: 0px 12px;
+    }
+    .item-i {
+        width: 100%;
+        height: 80px;
+        border: 1px solid gray;
+        background-color: rgb(242, 19, 112);
+        padding: 0px 12px;
+        display: block;
+    }
+    
+  }
