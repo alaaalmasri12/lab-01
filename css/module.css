@@ -19,7 +19,15 @@
     background-color:rgba(240, 52, 52, 1);
     padding: 0px 12px;
 }
-
+.full-layout
+{
+    width: 960px;
+    margin: 10% auto;
+}
+.space
+{
+    padding-top: 500px;
+}
 .item
 {
     display: inline-block;
@@ -51,6 +59,7 @@
     width: 760px;
     height: 150px;
     border: 1px solid gray;
-    background-color:rgba(240, 52, 52, 1);
+    background-color: rgba(240, 52, 52, 1);
     padding: 0px 12px;
+    margin-bottom: 10%;
 }
