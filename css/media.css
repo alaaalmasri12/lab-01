@@ -1,11 +1,5 @@
-@media (max-width:480px) {
-    body
-    {
-        display: none;
-    }
-   
-}
-@media (max-width:767px) and (min-width:480px) {
+
+@media (min-width: 481px) and (max-width: 767px) {
    
     .full-layout {
         width: 480px;
@@ -89,7 +83,7 @@
     }
 }
 /*tablets*/
-@media (min-width: 768px) and (max-width: 960px) {
+@media (min-width: 768px) and (max-width: 1024px) {
   
   
     .item-a {
